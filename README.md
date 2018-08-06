@@ -2,7 +2,7 @@
 
 ## 06/08/2018
 
-* étape 1 : télécharger mySQL workbench
+### * étape 1 : télécharger mySQL workbench
 
 [mySQL workbench](https://dev.mysql.com/downloads/workbench/)
 
@@ -10,7 +10,7 @@
 
 cliquer sur "download"
 
-* étape 2 : installation
+### * étape 2 : installation
 
 ![etape 1](https://github.com/jbinaux/sql_installer/blob/master/img_readme/etape1.PNG "etape 1")
 
@@ -37,6 +37,6 @@ attendre la fin de l'installation
 cliquer sur "finish"
 
 
-* étape 3 : au travail !
+### * étape 3 : au travail !
 
 ![etape 7](https://github.com/jbinaux/sql_installer/blob/master/img_readme/etape7.PNG "etape 7")
