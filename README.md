@@ -6,7 +6,7 @@
 
 [mySQL workbench](https://dev.mysql.com/downloads/workbench/)
 
-![telechargement](https://github.com/jbinaux/sql_installer/blob/master/img_readme/telechargement.PNG =100x)
+![telechargement](https://github.com/jbinaux/sql_installer/blob/master/img_readme/telechargement.PNG)
 
 cliquer sur "download"
 
